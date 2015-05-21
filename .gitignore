@@ -1,0 +1,36 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+.settings/
+
+# Local configuration file (sdk path, etc)
+local.properties
+resource.properties
+project.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle
+build/
+
+lint.xml
+.DS_Store

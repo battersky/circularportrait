@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="CircularPortraitImageView">
+        <attr name="borderWidth" format="dimension"></attr>
+        <attr name="borderColor" format="color"></attr>
+    </declare-styleable>
+</resources>
